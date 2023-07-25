@@ -1,0 +1,1 @@
+Was it really okay to turn down those researchers? Those invasive species really did seem problematic for the local river creatures we have. I know you know what you are doing but perhaps it would be nice to help out others from time to time.

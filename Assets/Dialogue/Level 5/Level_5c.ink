@@ -1,0 +1,2 @@
+It really is a wonderful day today. The river is looks as good as ever and the wild life looks happy.
+And it is all thanks to you. I know about the plan to pour waste into the river just to save a few pennies. Well I admire the dedication you have shown so far to keeping this town of ours clean.

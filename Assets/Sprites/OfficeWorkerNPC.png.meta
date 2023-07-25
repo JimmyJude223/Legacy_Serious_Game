@@ -1,0 +1,4051 @@
+fileFormatVersion: 2
+guid: abe8d011521fb01479622636f05cb9d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136d74aa4c0e60e46898840329d18cd1
+      internalID: -1616967275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f6ddb778fd804da7edaaa2827c44a
+      internalID: -50768846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6d64c87f3a844583c9c144c12a2e4
+      internalID: -1426026095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4d9ee56628344bba5d900cdbcbe81
+      internalID: -377353561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e51346fbcfa748b4dd1a3f07bf0aa
+      internalID: -1646396510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb5ae4a0bd3e5458a59676dca2be82
+      internalID: -1194365771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f80076cb99bedf43a750a9d9ad8eebb
+      internalID: 548622206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314287957523f4448a10690fa9a8c7df
+      internalID: -214311950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d66cf3030c8e4bbb64c6e68ad7715
+      internalID: 1709751128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52669c798aa869c49ac78dbea4796650
+      internalID: 601759782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e19c6b281ec64fbd0ec4239d163b5
+      internalID: 1506374458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e2f25fe28131c4cba6514c891fd5e3
+      internalID: 1377631471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab545fae409d6458d18aec47755835
+      internalID: 1422751731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5f81336dc2a3540b3f0dda43b2d71d
+      internalID: 686224677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa4b7e5f6266a4ea7dc0a4e4c4b6ff
+      internalID: 60004232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43f79ec6946f34f8caa5af576a007b
+      internalID: -836178793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229cf1a77d0ef184abb68eb9914694f1
+      internalID: 1954636430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3004050217e4fe04b81d0d4af61f4a91
+      internalID: -1329389890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a806cbcaca9eb48a14e92497eb0bbe
+      internalID: -1981076484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653477ef793ddca41a58cb151cdbb6d1
+      internalID: 1126334405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f3ebb0d8d6b34fbe0d36cbf101347
+      internalID: 1668177653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279d5874f462ac4391428d4029e01ef
+      internalID: -1181696801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865384216a4396c44b2c3f273f5356f3
+      internalID: 2085126601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de775b48b716bf43b1252030d5d50c9
+      internalID: 1192728160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f6236e1f68e849a5db7d6754f3b8c
+      internalID: 2006174301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b1e967a8e99849af321754ae34e83
+      internalID: -1903639842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170200f689228ff4c8cd5cfe50a7c279
+      internalID: 1173493516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e94493359c139498ae44769b517f03
+      internalID: -304924462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cdaa763fbe1b1449b9dcc5812bda4c
+      internalID: -1982361776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d07e204fae34848b4905a4c63c6de5
+      internalID: 795450884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091be3b3746d10a4bbc7f28097185324
+      internalID: -945644375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79eac843371ad546aebb3e61ee2102f
+      internalID: 1954958640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52463bee5b0d7e340bdfb2b7f0a0cc8d
+      internalID: -482363925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e45567a701b0794f9db0301865f5690
+      internalID: 1524937348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21726dc954a051848aa3139fe3e60d0a
+      internalID: -1531909647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f0a395b35aaa4f88d913651644a7a
+      internalID: 1167749134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 962
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86672a15e6f96f7499d8a7c6c5a9ed77
+      internalID: 1513943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fade094fb9dd5940b96eec2610ee45c
+      internalID: 1827886297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab435b73d4c9948b1d5d95eb19581c
+      internalID: 1450624078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3fe3190befd94b8e33b8bdfbf9733
+      internalID: -496854510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4a304ada515d478f5e6a3aab333e8
+      internalID: 2050726045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58cb6dce3c029f48862899a47f3301a
+      internalID: -1801121584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56c5bc052b5c04d85a493430c4a35f
+      internalID: 1567346586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89ac004f6014a42b48bc3d89e7acba
+      internalID: -1607848799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef19a123c436d4894a324612164291
+      internalID: 1097446703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576b43b782fb934aa58b0ed302e8354
+      internalID: 98254596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 899
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0402e951bb980524d94cd1c7a99a0483
+      internalID: -574469216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b22b1f517a524585ea36d4e3a6edd
+      internalID: -620020244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 899
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee4504f812113488f0880044d0708e
+      internalID: 376597895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 899
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd55ec18a7b544e968d5b0600d426f
+      internalID: -693188047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87885b35c9f64b14f9028e00fc9fcdcc
+      internalID: -1180063136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7d4a9a27270740af0b0fe751b8bc6
+      internalID: 1987578567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912debe312e3254ca0da8d5004ed3dc
+      internalID: -1152494786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe472308127d9f46abd992579635c7d
+      internalID: 1773428801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 834
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18354ce280168409c7e2ed918cbe53
+      internalID: -957965660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db7fc488b14aa4aacf8b664dd8b51c
+      internalID: -1719128952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35a6005afbe7ac479501e6984b42fc2
+      internalID: -940171081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac2362a9679b984bb8928b6088d47b3
+      internalID: 143469707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21cc3bfa4b1a745aed88e9bfc36f86
+      internalID: -1517609842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d89d48adcb6fd46beeb1bb4a4e6916
+      internalID: 2100240045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f24814993e2343bdc7c7b17a2b132
+      internalID: -1753132432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725cbb5fffdd65d46a8151dfd44f9955
+      internalID: 1198312359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de84fe25e8158e84b841a846ad9c3efd
+      internalID: 2130727370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccfded0fae1f5f45b99024c0296880a
+      internalID: -1400042672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da14f53aa18b3543808228c552cd448
+      internalID: 2063733618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7829e82edb2c8d4aa8c19cb8ec2ac96
+      internalID: 1169356982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1849cbcef28a4e8fffbfd2204327c
+      internalID: 919848934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 769
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25ffd8a3fce3b48bfba88d182017e8
+      internalID: 145729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0a70c985247f24bbddb2098ef07688
+      internalID: 1380621121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 706
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7efaff564cea14796db7292259e47d
+      internalID: -1114724761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900ab88516ea28d4591107e22c97869c
+      internalID: -1561433441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 707
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02ede3a6167164098dfe07633553bc
+      internalID: -2010763568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 707
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d459ed697ee71a45a9b7d81ce17a20f
+      internalID: 1594515001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 706
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88bb81fa03ead46830c02eabc7e98d
+      internalID: -986152353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaaf53969b4d6744953503d0e9d4012
+      internalID: -1684096607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 706
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a148690cefda2af45a1de8ffcfb97935
+      internalID: 919691065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 706
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2e211bf42f9c4e80af5260a40e63e
+      internalID: 807073904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 706
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937b97c1381b4349a28ab1cd2f9faed
+      internalID: 2069785875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a4a45ecef16e4e862aa657224b6bd
+      internalID: -325543852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645999c1bbb61bb48adfea99bdf0afc9
+      internalID: -1795778146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b65896deb8de646a56861ef7d91e23
+      internalID: 813280702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbee1d09187af04e9174c456ec078ce
+      internalID: 356000854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1bcf8570f7b240b92f7bbde213b57
+      internalID: 587427860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091169ad501dcec4a8296943f58076c1
+      internalID: 1158126400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534471e2b79b87b4ab2bb02d56034732
+      internalID: -597420675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d407f9231d7cf4e8d32d73387bf1cf
+      internalID: 478290157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8f9b4b01979441ba82f03cc454749
+      internalID: 424178109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 578
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13075f3080f24fe489bbe12c9904413a
+      internalID: 868423244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca515bd4cea6744da8e33020e5a1980
+      internalID: -1576040204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6917c3bfe8f564f81704686fa57bdd
+      internalID: 743986805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c21eb8cbce4a0478fbfc8202ef681f
+      internalID: 1728482956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701cc4959b68dc4a967d658147f1d66
+      internalID: -1970412243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2027dd7d8cd899c4eaf7836008a6d43f
+      internalID: 997380788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb392bbeb49a5c458cdaee7a42d3e35
+      internalID: 194770353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de83460a5d02f468e38c0e088b87dd
+      internalID: -1464685153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5192712c95d3fe746a92f1f19cbbab87
+      internalID: 266509567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ad824d2592d54092cfeaa1418f1fe
+      internalID: -1520477747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0503554d859e845a85e57447018a22
+      internalID: 786232993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 513
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31346747d86bd94695611d5b1661133
+      internalID: -2066218002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0d0f634e2dfe4e90b73396931bba9
+      internalID: -1600663615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22f09ec4c9cea41bd9af8c4a48b776
+      internalID: -1356922915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecb4cc475cf8e34d807e006e90b5f69
+      internalID: 1720537063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 450
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d663cbb8ca6945ae0e333f42d37d9
+      internalID: 1950304094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0099744df388449e443399d957f5e
+      internalID: -617348702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 450
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115baaf5def792d449eb1888cf537f9a
+      internalID: -973362968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840697b801100f4bb2a65bbc3bfa4bb
+      internalID: -1382529521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9ba80c3ebbc34cad24b8d10d5f6eb
+      internalID: 854153120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa8a829bdd47d4085e54a382b41414
+      internalID: -1420414038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053bc3e29e668c42b17a3eccdf76816
+      internalID: -240718862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3d9ef3b1348d4790fa9a8824770e4
+      internalID: 1312743485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5f7bd05a0be3949b02c405bc1839b8
+      internalID: -1029698625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4804786e34554b54080a1d20ffd6ce07
+      internalID: 1902888560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df32e53deddaf04489cf092394e3b72
+      internalID: -1057207602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f9044bdf2e8942ad895a4e4deeb6a
+      internalID: -707104049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 322
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d35234137791479a22f0cc11ac188
+      internalID: -1286690238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d3d117ec4340439650125e8c838fe
+      internalID: -1120116704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9fca3949c799499372c34853ea2d8
+      internalID: 535606645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee072f9edaf8d5f4a9107a238adb2ca1
+      internalID: 742237961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18568ff54c23b14cbd44867a6f06c86
+      internalID: -697313510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1597a22645dc714b86da31accd63b6d
+      internalID: 558645379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4069c340d2dc0444ba51243943151991
+      internalID: 347378082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66409ca5f489e794f95cb21dc4c13298
+      internalID: -1276843002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95bba54ff7a6e40b55b199f5647357
+      internalID: -625948906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f667da2aab8f7c54998e7a9b17c8728b
+      internalID: 457131101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8586b35c05b8564aa538055f725af30
+      internalID: -2031594026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c670ce27c946aab408abdf607e0fd95d
+      internalID: -1344470393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d543682449914f94b8215ada96482c45
+      internalID: -1262009421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2596b884fd894fa924046dc17bdb9
+      internalID: -1588597836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b173cb8928497fd4db8b79ec9bda224b
+      internalID: 10803469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d5d0763986374e93faade2507a9d8
+      internalID: -1290858866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568e42a9726b6f949918b7126ef13f78
+      internalID: -1398079219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ca801519ce334686944a11e017c8a
+      internalID: 1117101648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc069a9be6cd94289f86d8cde16057
+      internalID: 1629757754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f74af61d82c44ba6410039e7969a3
+      internalID: -1312913139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c443c132719f146847f0f50b590875
+      internalID: 1925979770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ededc1e0edaf7449d20ea4f9d365d1
+      internalID: 493454659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866e93024f60ac469d6a576a7384980
+      internalID: -653226615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fdf9f86dc10446ba50b882b93e6e2
+      internalID: -636386132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2c9d79d3fae54e9681f23dc24beac
+      internalID: -1744432007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f93a0c0ed930c419feaf3521de9372
+      internalID: -1410517650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c8a4b93dc17142a7a791b47f1a85d
+      internalID: 956822593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22e099ec5351e4cb6ae5ff6f37b98c
+      internalID: -922189037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd8f22056261ec4788e4721ebf9e04c
+      internalID: 1051003398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d835d5627a7794aa93a9fde3f0abbc
+      internalID: 503347569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ac041af1aeb54a8bd37575b88357f
+      internalID: -2060565675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2563683496f0c24d9151967955ab7bb
+      internalID: 1042212808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c7340b1b07ee45877ca42ae7937e1
+      internalID: 1854366024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0939621c53024ea47eb16ee76de53
+      internalID: 233896794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b881d8c1cc51444aac4ab7a94179581
+      internalID: -1500609881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698bb26d5f1bd04f8fc200f4186e78f
+      internalID: 1250978954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a896ce1eebfcc4992895842bb12561
+      internalID: -401073818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd43b8bd7abe2c4883f2471dd9c6337
+      internalID: -1560969475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877284ec0f596c74f95a6f84a4fe4990
+      internalID: 1994895265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6506a1b7b697b748a50e63fa55013fb
+      internalID: -1530911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936aeb3bb15d924a980a0f9700ebfaa
+      internalID: 173576248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee0d12fce281d4b94c3efb1c551d7d
+      internalID: 1624829176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd33532ab151a248af1fdfe73cca774
+      internalID: 998066167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1010be80d18ca4ab2d4e7ce7d39e64
+      internalID: 826465148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0738475271c9ba94b93493b0f1d5442e
+      internalID: 1000781055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319775cd6226e64bb7bffa678b96c88
+      internalID: -2018683918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996e245c2e416947afd053c55112c05
+      internalID: -1703108324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3865c32e9e7d4da6b17634d7292f8
+      internalID: -233010715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500dd556693206f4d93fd9567dd9604b
+      internalID: 1618945577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e0550d2eba4f408083b696f86e6e2
+      internalID: 1547622589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 66
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3b812df500d94a9b26b23c243cb61
+      internalID: 1260863104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228a45020a6aed4d9ff5742f31b42fe
+      internalID: -1346240935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd99d5bf7f0c834d869f4879b11a8b4
+      internalID: -1863433608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ffeeb05b0f804a8eea0e8576b6ff2
+      internalID: -343238584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab2525bb4f6bf4dbd1730714a1ccb9
+      internalID: 628206374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd24019cf60a5448bcc07201ac4c30
+      internalID: -989516982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086154a1c2b8b04c89a5b6ccee2e999
+      internalID: 602339637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2a4b7f7abb384c8f5e9bde27fe59c
+      internalID: -166532104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea94c39b32a1a4fa5892271cd7d02f
+      internalID: 1912431885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035ac0ccd2a7234ead9448ee74c3c84
+      internalID: 1361886518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9374e41e5469e3a44aab3d77d2454afc
+      internalID: -1594779111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1a648ec97b7641965b94447e7538d
+      internalID: -1129217223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfe8f72cbf511544a2fc3fd3843bb1c
+      internalID: -213705230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWorkerNPC_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6621d167e5dd4a9d387e122ae0b0c
+      internalID: -1395020642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OfficeWorkerNPC_174: -1594779111
+      OfficeWorkerNPC_173: 1361886518
+      OfficeWorkerNPC_1: -50768846
+      OfficeWorkerNPC_15: -836178793
+      OfficeWorkerNPC_112: -1057207602
+      OfficeWorkerNPC_94: -1464685153
+      OfficeWorkerNPC_84: -597420675
+      OfficeWorkerNPC_92: 997380788
+      OfficeWorkerNPC_49: -693188047
+      OfficeWorkerNPC_43: -1607848799
+      OfficeWorkerNPC_2: -1426026095
+      OfficeWorkerNPC_156: 998066167
+      OfficeWorkerNPC_104: -973362968
+      OfficeWorkerNPC_4: -1646396510
+      OfficeWorkerNPC_153: -1530911252
+      OfficeWorkerNPC_161: -233010715
+      OfficeWorkerNPC_27: -304924462
+      OfficeWorkerNPC_167: -343238584
+      OfficeWorkerNPC_65: 1169356982
+      OfficeWorkerNPC_168: 628206374
+      OfficeWorkerNPC_115: -1120116704
+      OfficeWorkerNPC_106: 854153120
+      OfficeWorkerNPC_119: 558645379
+      OfficeWorkerNPC_12: 1422751731
+      OfficeWorkerNPC_142: 1051003398
+      OfficeWorkerNPC_70: -1561433441
+      OfficeWorkerNPC_85: 478290157
+      OfficeWorkerNPC_99: -1600663615
+      OfficeWorkerNPC_79: -1795778146
+      OfficeWorkerNPC_13: 686224677
+      OfficeWorkerNPC_61: 1198312359
+      OfficeWorkerNPC_117: 742237961
+      OfficeWorkerNPC_41: -1801121584
+      OfficeWorkerNPC_81: 356000854
+      OfficeWorkerNPC_113: -707104049
+      OfficeWorkerNPC_134: 1925979770
+      OfficeWorkerNPC_22: 2085126601
+      OfficeWorkerNPC_101: 1720537063
+      OfficeWorkerNPC_57: 143469707
+      OfficeWorkerNPC_145: 1042212808
+      OfficeWorkerNPC_46: -574469216
+      OfficeWorkerNPC_68: 1380621121
+      OfficeWorkerNPC_23: 1192728160
+      OfficeWorkerNPC_176: -213705230
+      OfficeWorkerNPC_28: -1982361776
+      OfficeWorkerNPC_35: 1167749134
+      OfficeWorkerNPC_33: 1524937348
+      OfficeWorkerNPC_111: 1902888560
+      OfficeWorkerNPC_139: -1410517650
+      OfficeWorkerNPC_125: -1344470393
+      OfficeWorkerNPC_54: -957965660
+      OfficeWorkerNPC_71: -2010763568
+      OfficeWorkerNPC_8: 1709751128
+      OfficeWorkerNPC_80: 813280702
+      OfficeWorkerNPC_103: -617348702
+      OfficeWorkerNPC_126: -1262009421
+      OfficeWorkerNPC_38: 1450624078
+      OfficeWorkerNPC_51: 1987578567
+      OfficeWorkerNPC_150: -401073818
+      OfficeWorkerNPC_170: 602339637
+      OfficeWorkerNPC_83: 1158126400
+      OfficeWorkerNPC_45: 98254596
+      OfficeWorkerNPC_64: 2063733618
+      OfficeWorkerNPC_100: -1356922915
+      OfficeWorkerNPC_137: -636386132
+      OfficeWorkerNPC_140: 956822593
+      OfficeWorkerNPC_141: -922189037
+      OfficeWorkerNPC_162: 1618945577
+      OfficeWorkerNPC_155: 1624829176
+      OfficeWorkerNPC_44: 1097446703
+      OfficeWorkerNPC_25: -1903639842
+      OfficeWorkerNPC_110: -1029698625
+      OfficeWorkerNPC_166: -1863433608
+      OfficeWorkerNPC_158: 1000781055
+      OfficeWorkerNPC_160: -1703108324
+      OfficeWorkerNPC_159: -2018683918
+      OfficeWorkerNPC_129: -1290858866
+      OfficeWorkerNPC_26: 1173493516
+      OfficeWorkerNPC_152: 1994895265
+      OfficeWorkerNPC_69: -1114724761
+      OfficeWorkerNPC_109: 1312743485
+      OfficeWorkerNPC_123: 457131101
+      OfficeWorkerNPC_87: 868423244
+      OfficeWorkerNPC_30: -945644375
+      OfficeWorkerNPC_93: 194770353
+      OfficeWorkerNPC_138: -1744432007
+      OfficeWorkerNPC_171: -166532104
+      OfficeWorkerNPC_102: 1950304094
+      OfficeWorkerNPC_146: 1854366024
+      OfficeWorkerNPC_73: -986152353
+      OfficeWorkerNPC_135: 493454659
+      OfficeWorkerNPC_127: -1588597836
+      OfficeWorkerNPC_5: -1194365771
+      OfficeWorkerNPC_91: -1970412243
+      OfficeWorkerNPC_24: 2006174301
+      OfficeWorkerNPC_143: 503347569
+      OfficeWorkerNPC_105: -1382529521
+      OfficeWorkerNPC_34: -1531909647
+      OfficeWorkerNPC_14: 60004232
+      OfficeWorkerNPC_128: 10803469
+      OfficeWorkerNPC_76: 807073904
+      OfficeWorkerNPC_66: 919848934
+      OfficeWorkerNPC_98: -2066218002
+      OfficeWorkerNPC_121: -1276843002
+      OfficeWorkerNPC_107: -1420414038
+      OfficeWorkerNPC_177: -1395020642
+      OfficeWorkerNPC_88: -1576040204
+      OfficeWorkerNPC_16: 1954636430
+      OfficeWorkerNPC_59: 2100240045
+      OfficeWorkerNPC_56: -940171081
+      OfficeWorkerNPC_89: 743986805
+      OfficeWorkerNPC_29: 795450884
+      OfficeWorkerNPC_10: 1506374458
+      OfficeWorkerNPC_114: -1286690238
+      OfficeWorkerNPC_149: 1250978954
+      OfficeWorkerNPC_165: -1346240935
+      OfficeWorkerNPC_77: 2069785875
+      OfficeWorkerNPC_58: -1517609842
+      OfficeWorkerNPC_122: -625948906
+      OfficeWorkerNPC_86: 424178109
+      OfficeWorkerNPC_154: 173576248
+      OfficeWorkerNPC_163: 1547622589
+      OfficeWorkerNPC_108: -240718862
+      OfficeWorkerNPC_90: 1728482956
+      OfficeWorkerNPC_116: 535606645
+      OfficeWorkerNPC_52: -1152494786
+      OfficeWorkerNPC_75: 919691065
+      OfficeWorkerNPC_95: 266509567
+      OfficeWorkerNPC_172: 1912431885
+      OfficeWorkerNPC_82: 587427860
+      OfficeWorkerNPC_118: -697313510
+      OfficeWorkerNPC_0: -1616967275
+      OfficeWorkerNPC_131: 1117101648
+      OfficeWorkerNPC_120: 347378082
+      OfficeWorkerNPC_133: -1312913139
+      OfficeWorkerNPC_96: -1520477747
+      OfficeWorkerNPC_48: 376597895
+      OfficeWorkerNPC_74: -1684096607
+      OfficeWorkerNPC_18: -1981076484
+      OfficeWorkerNPC_19: 1126334405
+      OfficeWorkerNPC_151: -1560969475
+      OfficeWorkerNPC_40: 2050726045
+      OfficeWorkerNPC_72: 1594515001
+      OfficeWorkerNPC_42: 1567346586
+      OfficeWorkerNPC_147: 233896794
+      OfficeWorkerNPC_7: -214311950
+      OfficeWorkerNPC_55: -1719128952
+      OfficeWorkerNPC_132: 1629757754
+      OfficeWorkerNPC_39: -496854510
+      OfficeWorkerNPC_37: 1827886297
+      OfficeWorkerNPC_53: 1773428801
+      OfficeWorkerNPC_124: -2031594026
+      OfficeWorkerNPC_78: -325543852
+      OfficeWorkerNPC_148: -1500609881
+      OfficeWorkerNPC_3: -377353561
+      OfficeWorkerNPC_164: 1260863104
+      OfficeWorkerNPC_11: 1377631471
+      OfficeWorkerNPC_9: 601759782
+      OfficeWorkerNPC_169: -989516982
+      OfficeWorkerNPC_63: -1400042672
+      OfficeWorkerNPC_47: -620020244
+      OfficeWorkerNPC_50: -1180063136
+      OfficeWorkerNPC_62: 2130727370
+      OfficeWorkerNPC_36: 1513943
+      OfficeWorkerNPC_175: -1129217223
+      OfficeWorkerNPC_6: 548622206
+      OfficeWorkerNPC_17: -1329389890
+      OfficeWorkerNPC_67: 145729850
+      OfficeWorkerNPC_144: -2060565675
+      OfficeWorkerNPC_130: -1398079219
+      OfficeWorkerNPC_60: -1753132432
+      OfficeWorkerNPC_32: -482363925
+      OfficeWorkerNPC_31: 1954958640
+      OfficeWorkerNPC_97: 786232993
+      OfficeWorkerNPC_20: 1668177653
+      OfficeWorkerNPC_157: 826465148
+      OfficeWorkerNPC_136: -653226615
+      OfficeWorkerNPC_21: -1181696801
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

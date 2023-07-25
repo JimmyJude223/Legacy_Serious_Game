@@ -1,0 +1,2 @@
+Sir, do you have a moment?
+I overheard some people talking about you declining to help out the people with an issue in the park? I know you have your reasons and are looking out for the company but if you ask me, I dont think any harm could have come from helping out some researchers.

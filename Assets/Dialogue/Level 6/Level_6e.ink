@@ -1,0 +1,1 @@
+I’m glad we are training up some new employees, this will certainly speed up production. I am saddened that we lost some of the park, though. I enjoyed spending time there with the wife and kids.

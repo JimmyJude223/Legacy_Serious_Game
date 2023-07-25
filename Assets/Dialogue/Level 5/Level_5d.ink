@@ -1,0 +1,1 @@
+While I do respect you not poisoning the river, I bet a lot of people appreciate that, I am sure that that has halted production at the company due to taking the time to set up the new facilities? Remember for a city to flourish small sactifices must be made.

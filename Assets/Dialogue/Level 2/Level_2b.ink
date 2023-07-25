@@ -1,0 +1,2 @@
+Good morning, I thought id let you know that those researchers you offered to help were able to drive away those nasty critters in our river, I just saw it on the news.
+Thank you for offering to help them out, I know it was a gamble what those chemicals could do to the river. Have a lovely day today!

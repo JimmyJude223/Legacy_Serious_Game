@@ -1,0 +1,4073 @@
+fileFormatVersion: 2
+guid: 2cd8d91c44c5f154faddc8d2f1229375
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WifeNPC_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46383144dbafebc45b971117e34f13dc
+      internalID: 398198558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1282
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb4babdc5397b34c8b45682ffe80c2b
+      internalID: -910878676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1282
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3070c4e75d8a14d9bb70331adc2a0e
+      internalID: -1617343998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9638b8c5e77447b7335b7466431ed
+      internalID: -1722085012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe1525fcb6c4dd4dab30f38cc47bd47
+      internalID: 1532832945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8bb1a52a46b1e4b87143921d8701be
+      internalID: -962736929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abba437af5f16743a96de11db63c403
+      internalID: 1727884273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1088
+        width: 96
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6268b03494c54b82fa30502e12c8b
+      internalID: 2088415912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1218
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003840352d6b37a488d2a2fda3665a90
+      internalID: -830598784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1218
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8da05e735a20af488dff89171a4785f
+      internalID: 1612666607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1218
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d77a993c0f77d46b873d5df4dcb7f4
+      internalID: 311562398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f8b7d57f71364fa6a72ebca584124
+      internalID: 705283575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7304d8f523a543a8f59e253ebfcd1
+      internalID: -839586567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207719a896bff614fb78c463facf9d16
+      internalID: 1091192679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3092e3890cbb14382c0845fa373b25
+      internalID: -1162039121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ef7d3b3d613847a43919b6b7de234
+      internalID: 1471457043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7139c2f31cf664e8227fd424a889e8
+      internalID: -1364321487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1154
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a084b584e630e468901759833d0100
+      internalID: 1249350687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cdc6bdc4673b7428f91e22c3aa2d65
+      internalID: 1148576762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173aa1db08aacfa48a8defa78d856d78
+      internalID: -711270491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb369439d92736c4fa99e0233c396b3e
+      internalID: 876322150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6d4e67d16fd54fbd5bbf6df2b0782
+      internalID: -1471865965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1090
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095ae32cb1adaa418ecdea4e5fbcd6b
+      internalID: -1315429618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87c53061adb5d40a47f41dac5b537e
+      internalID: 968387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e9d1cdcaa637a43b7cb56b1aee3f5e
+      internalID: -1587579773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb7e660afdae442855687bcb2bd2ea
+      internalID: 1249278612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a99280d431e194488bea5d725be2e7
+      internalID: 1558907264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305fa09c3057544986a1dafe4cdccc5
+      internalID: -932388731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1090
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3170afbbd59e4cad8bfda7559d49a
+      internalID: -517932326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1025
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb97f4c2a630f8449c14c706e7150b4
+      internalID: -285883783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1025
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2baa292ccd0ba468294c03a84d41e8
+      internalID: 279279584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497f26d47594dc4fb589a0103f92cba
+      internalID: -16642459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d65d0367da95b4796f2404e89326c8
+      internalID: 920838320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296045847d967b34bb658df760159eca
+      internalID: 115349052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84418e5ac3d24604eb5cde76a4305ee4
+      internalID: -2012484424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_35
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ae41a0e1e5fd46a88c0f1661f5c31
+      internalID: -641187792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_36
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206a93b4163f40e4483a99c1238fed66
+      internalID: 1163944525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 962
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e3039ef41dea6438d80ef4b898853b
+      internalID: -545292907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7afa71969f3a8419b38b959d18ed19
+      internalID: -858797212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17d85b26ab7c644e97b1d244810bed0
+      internalID: -444222981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 962
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e2766d0fa0624da172f2c21da96fe
+      internalID: -1619715683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 962
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9fa4e52cdd6c64f9aaf498f7ab6415
+      internalID: 323310506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 962
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10e3198810418469385ca903b6ad76
+      internalID: 405374282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 962
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e575e8cb30bc4cb39c9ac4c22262b
+      internalID: -1069835233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 962
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a3d0e3a5f760409e66e786c54bcc6
+      internalID: 749324743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796236fb4bafa2448a11677f3c9c6540
+      internalID: 887079356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 898
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5876cb7a12f94abbc8b902918a795
+      internalID: -468162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 899
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f33d5e56e76c43aba5f5381c4dbf5
+      internalID: 563713171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67566ae9d377e478ee18fa3b2107db
+      internalID: 1004952360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 899
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ca2fe23f6ad0d4ea63a5733e689402
+      internalID: 793197886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_50
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 899
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8e19473ede3a4982f2a730694f9e3
+      internalID: -441117110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 899
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeef354cac552f4ea256d856e8b13a7
+      internalID: 1407701770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f733e3130b590442a7ca75c8262131a
+      internalID: 162864902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 834
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84b67c16d56a14480f1f1c983c747b
+      internalID: 1746729976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 834
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687bb0928d0b01438c27efd0ab497eb
+      internalID: -138770176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc4f842a5d6e24386f38bfc4a0140d
+      internalID: 703542072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b74acc3a81ae4987732fc491d1ef3
+      internalID: -771901941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a675f1bb805f94ca106d6e50416c2c
+      internalID: 1068022721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd507b90e51cf8458b3c616702ddc6e
+      internalID: 1803728191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e228b78e4b61f44f8621a19815a24e8
+      internalID: -542407772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_60
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50497789c73d2d54f98c8891e940f5a3
+      internalID: 2022483024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 771
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554795abfe25db44582f0536bb9c4ed8
+      internalID: 1755073148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e40eb4f7778544a9530002ed8a45bb
+      internalID: 2089827226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5651fba34cbf4d8d53fea1d597fa4
+      internalID: 1231178329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 768
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bda7eb4f975b4d4bbbe42069b274c6c
+      internalID: 1268262858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795be0f94986ab648ac762cd9933bd1e
+      internalID: -1611455290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec1b0dc259a69a44a6cb5689299de28
+      internalID: -1380315472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed1b472ef64564fa729742495599eb
+      internalID: 1524239280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 768
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2262628960363924aba6dce1d5b2fc10
+      internalID: 1368264419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 769
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bc765fac75264b952e385d1685c34
+      internalID: 328216601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 706
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d783fcde2131a94a80a036078614e93
+      internalID: -452082187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733797022e732d47b7fdc435524decd
+      internalID: -2046512590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 707
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60faa72d200e5b14bbd777e2ef69a920
+      internalID: -1733685947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 707
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0af8501ac5d5446bcfaf92184c94c5
+      internalID: -1863240162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dddd3af700823d4ca185dc92c33cfa9
+      internalID: -304958633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b61749fdff9ec4f9635fc36c8ac5b0
+      internalID: 1475434667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 706
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b26ca00e72b7347a2d2ce9263837ac
+      internalID: 1868293406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_77
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 706
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ba70c1f5f0334c9a5106c448b1217
+      internalID: 144561936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_78
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 706
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7dc1e4cfc0d514f9ff9714acdd8313
+      internalID: -592039716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3a87b7e4659741abb13537e41c965
+      internalID: 1859015169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f574af3b647149adf729af8d28e64
+      internalID: -2039907225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa033c872b513a48b942dda1f534fe7
+      internalID: -1586782573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d03e5d879020409db8c7359176e1d
+      internalID: 1459223546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46687a940703f943902328df8136cfd
+      internalID: -1279092490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93a14da3c03e24ea6172dfbc05c4e3
+      internalID: -1766874058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_85
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9da51eca979ca438d097b05ffc138d
+      internalID: -1318382273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d205f430cd804d49be6a2b942fec37e
+      internalID: -730745783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_87
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268048d1e91dd924dbc62383b3591eda
+      internalID: -434116050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 578
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c241687ae958fa46829952fdbc0d13b
+      internalID: 1487024317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5997c0a7efd2940b02f129c8f30bb1
+      internalID: -2085564384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 579
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f349ee8e4fa65f4683b4dc779fe97c9
+      internalID: 1805690863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003ab8039288907468b65def1b4545a0
+      internalID: 151480006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd497019e2408479fe3cf9433d0724
+      internalID: 66218055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6550c40b06f0f4ea0e489551d87096
+      internalID: 1129497564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e068b959ebb64eb310ed393a18daf
+      internalID: 1492526725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_95
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839028631bcfd7f44bed192b23000475
+      internalID: -2086523553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 578
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b30efac71d3c0489bcc68d33218b00
+      internalID: 2068357171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453365c7fbe4cf45884c9bcceb5c35f
+      internalID: 1990811862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f5212abecb474da9eeb33c40bf1a3
+      internalID: 1803339898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 513
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c853fde779b0c40afc6d2c80119778
+      internalID: -559625618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 513
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c015618038aec8247b51f1869011f95b
+      internalID: 1471333213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 513
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702dde9a2dd4b84a9ea5b3385e67cfe
+      internalID: -170412269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 513
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0998d131d5f24db9d734c9d236bbd
+      internalID: 2053631848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_103
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085a8feca215ef439fde7e9880239be
+      internalID: 2109478604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414f84ec8db62f46bd70ac80de1033f
+      internalID: 158171425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 450
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd377f948ca3f449eb2d878ee57662
+      internalID: -73089967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bae77735ec76c41bcfa8f1e8ee9a95
+      internalID: -1300580475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f6457e735cd243bb137947ca823ec
+      internalID: -331396581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_108
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8971f4ccafea2479915bf283366369
+      internalID: 1514821122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64305fcaaa63d4b9a35050894b9df0
+      internalID: 379113394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 386
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce87470fd2bfed43aa13320036829e6
+      internalID: -1730996023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_111
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 386
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ae329d434e3644963fb3abd79093c
+      internalID: 1539940295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 386
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbab43ac54d4f649a655f0f4538d3f8
+      internalID: -806602713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_113
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 386
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd893e1e36f634ea6626584a1bc5de
+      internalID: 1354640308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8952837b99ce8641b856da6af50743b
+      internalID: 455861579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc171877dad3c6748bb00f7c5ea55906
+      internalID: 952814271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2680065cbaeb54c9b570da7f8eefb2
+      internalID: 1117557520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5279e1f134a19d4bbdfb9de32bf80d8
+      internalID: -114570514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e85fa8a60f0c24fb94f07d8e65993d
+      internalID: 2000714510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d0189d5ad60548a21a2cbbd685a90
+      internalID: 269721691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed8c75d66a12741bebe72e0f776fba
+      internalID: 1106046979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e4d5682cc42f749acd258390923320
+      internalID: 434738923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_122
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 257
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bab1b0f2cfde41ad514ac870ba2e1
+      internalID: -450075739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4e2b03faa9c2448471be1ff9fe455
+      internalID: -772087954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_124
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56e4e36bd766248aa5cafefec24220
+      internalID: 1058167035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_125
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee838c220001ed498ae2e62d8b307f9
+      internalID: -2064436956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_126
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def4ab34a1bea6c40a990378b9239f66
+      internalID: 1773121904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_127
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94039d95d61c2cf4cb5a9e7831673e5d
+      internalID: -737759513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bc902eea07286409843155902d51a0
+      internalID: -305348332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_129
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148d87fae161c24491e37e36fe8b365
+      internalID: -1794259906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_130
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f5923a7a70824fab9f32378086cd0
+      internalID: -1309342524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74792effacda24409ab394d770baad2
+      internalID: -1461685156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_132
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd0656851037f4297940e0b50ea94c
+      internalID: 1620038123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_133
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7598ac88866cbf24c98f708c2f42e54c
+      internalID: 180889869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_134
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201b640cf1f26a4fa7265a3d73eeeda
+      internalID: -1937989710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24707d6eb967c6478495cb0cb4274b5
+      internalID: -1296797889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dfd3d1cf936654d87e27a42048123f
+      internalID: 1877603297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c5c278d40a1942b2c928e56e3cedc
+      internalID: -1270452278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937bac99341b99478fb871a7be2f3fa
+      internalID: 1192150690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057671ecdfe63c74286a930a31a7a320
+      internalID: -1304575716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ab8a71d1c235047966e4286b2d6933
+      internalID: 999453443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c613ff26fab0c3045bdece7ce30f5333
+      internalID: 1698174116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c4f8eb2f362540a3931e1f0853f32
+      internalID: 1240320857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a67917153a1b46ae9fc667c1cf0ce
+      internalID: -1086340341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_144
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff205880e87df534aa443f398233dc6c
+      internalID: -1293703681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_145
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106bdd09a31a1224d8f1068492b08308
+      internalID: -818374233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e344e4392364468ddc7f8f3844686
+      internalID: 1405920357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_147
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510b6f740bcd3e48aca72cc9cfbe898
+      internalID: -877962693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_148
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789f76f7817f184f87ba8974a995496
+      internalID: 684244179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_149
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f127d0770e9e49bf81e8feab9ad5f
+      internalID: -25039483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f0f9ad334db9b41a7d33bf56b66293
+      internalID: -1623851726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_151
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499fc32ac87fbf46b7c2274557adc39
+      internalID: 408622735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_152
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf256f82a52d2448b3ef0ec05449a7
+      internalID: -1953989803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_153
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270924edd868a444db944e62a0b856d0
+      internalID: -240125596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a08065ce5c631449845542cb303822
+      internalID: 1007250382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_155
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf073f634845b478f88aacfde3ec18
+      internalID: 1315392734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_156
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5f876d7a29c5e46a990cb01c41e54d
+      internalID: -35127283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_157
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95b594ce02fee34b872294d396bcc0e
+      internalID: -310289004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_158
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 130
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b397175afea3438d4b6932a3c724d
+      internalID: 2060148768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_159
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f686612bc6ff1b4ea07a8ac423a008d
+      internalID: 1175391713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ca0e3b375e8f4587662e4f020654b
+      internalID: -675951440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_161
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611ba7952bbdb043b9f9959897783ea
+      internalID: -507794877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9c635d32cf844999c8673109fff7f
+      internalID: -710101362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d678046c0eaac324194bd0868015dc8e
+      internalID: -621940740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3083200ef91281141abe727ce7a57949
+      internalID: 1256355291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c35cc94c13252b419514d9f65c84d97
+      internalID: 1504360015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_166
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94bdf4aa208ac34ab88ffb872afe110
+      internalID: -175123299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_167
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d891fb8c4b0da49b5836eb411d0319
+      internalID: 1067570016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95cc71b29371d46953b5fed3035dd4
+      internalID: -139956786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_169
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf499aceef6ebe47b29f9ae44d69416
+      internalID: 1040003758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_170
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f32ce8b4fc1204a9cc0220e3aec1d7
+      internalID: -375008399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 66
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f5705dbfa898945b7a1185873cf265
+      internalID: 1716522865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16571d385dea3a647a0089ea876ff441
+      internalID: -629284085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_173
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3905531e4797304d9e0f231d8c5befb
+      internalID: 1114898541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_174
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f667d73a71c91284d9a0a79cf107d6db
+      internalID: 442039418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_175
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfdd8a5fc464104b95acd7cdd76d108
+      internalID: 390906769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_176
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf2695e7c619547b029d0aebe3a496
+      internalID: -1785553535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_177
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff03e808c9bf543bfe46826ef07360
+      internalID: 1696900222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WifeNPC_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5265745eae31d2644b83260185a994af
+      internalID: 1515218983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WifeNPC_160: -675951440
+      WifeNPC_106: -1300580475
+      WifeNPC_90: 1805690863
+      WifeNPC_100: 1471333213
+      WifeNPC_80: -2039907225
+      WifeNPC_14: -1162039121
+      WifeNPC_149: -25039483
+      WifeNPC_20: 876322150
+      WifeNPC_151: 408622735
+      WifeNPC_147: -877962693
+      WifeNPC_108: 1514821122
+      WifeNPC_5: -962736929
+      WifeNPC_59: -542407772
+      WifeNPC_54: -138770176
+      WifeNPC_115: 952814271
+      WifeNPC_18: 1148576762
+      WifeNPC_10: 311562398
+      WifeNPC_113: 1354640308
+      WifeNPC_13: 1091192679
+      WifeNPC_124: 1058167035
+      WifeNPC_148: 684244179
+      WifeNPC_39: -444222981
+      WifeNPC_162: -710101362
+      WifeNPC_37: -545292907
+      WifeNPC_161: -507794877
+      WifeNPC_2: -1617343998
+      WifeNPC_16: -1364321487
+      WifeNPC_150: -1623851726
+      WifeNPC_153: -240125596
+      WifeNPC_136: 1877603297
+      WifeNPC_12: -839586567
+      WifeNPC_62: 2089827226
+      WifeNPC_71: -2046512590
+      WifeNPC_6: 1727884273
+      WifeNPC_97: 1990811862
+      WifeNPC_24: -1587579773
+      WifeNPC_131: -1461685156
+      WifeNPC_120: 1106046979
+      WifeNPC_29: -285883783
+      WifeNPC_1: -910878676
+      WifeNPC_99: -559625618
+      WifeNPC_4: 1532832945
+      WifeNPC_178: 1515218983
+      WifeNPC_27: -932388731
+      WifeNPC_79: 1859015169
+      WifeNPC_34: -2012484424
+      WifeNPC_53: 1746729976
+      WifeNPC_158: 2060148768
+      WifeNPC_93: 1129497564
+      WifeNPC_175: 390906769
+      WifeNPC_95: -2086523553
+      WifeNPC_105: -73089967
+      WifeNPC_173: 1114898541
+      WifeNPC_122: -450075739
+      WifeNPC_146: 1405920357
+      WifeNPC_61: 1755073148
+      WifeNPC_154: 1007250382
+      WifeNPC_35: -641187792
+      WifeNPC_174: 442039418
+      WifeNPC_8: -830598784
+      WifeNPC_15: 1471457043
+      WifeNPC_110: -1730996023
+      WifeNPC_129: -1794259906
+      WifeNPC_50: -441117110
+      WifeNPC_170: -375008399
+      WifeNPC_101: -170412269
+      WifeNPC_137: -1270452278
+      WifeNPC_119: 269721691
+      WifeNPC_64: 1268262858
+      WifeNPC_134: -1937989710
+      WifeNPC_133: 180889869
+      WifeNPC_30: 279279584
+      WifeNPC_104: 158171425
+      WifeNPC_112: -806602713
+      WifeNPC_155: 1315392734
+      WifeNPC_32: 920838320
+      WifeNPC_44: 749324743
+      WifeNPC_85: -1318382273
+      WifeNPC_89: -2085564384
+      WifeNPC_25: 1249278612
+      WifeNPC_36: 1163944525
+      WifeNPC_144: -1293703681
+      WifeNPC_41: 323310506
+      WifeNPC_167: 1067570016
+      WifeNPC_70: -452082187
+      WifeNPC_91: 151480006
+      WifeNPC_48: 1004952360
+      WifeNPC_45: 887079356
+      WifeNPC_135: -1296797889
+      WifeNPC_145: -818374233
+      WifeNPC_9: 1612666607
+      WifeNPC_21: -1471865965
+      WifeNPC_0: 398198558
+      WifeNPC_102: 2053631848
+      WifeNPC_128: -305348332
+      WifeNPC_169: 1040003758
+      WifeNPC_60: 2022483024
+      WifeNPC_75: 1475434667
+      WifeNPC_66: -1380315472
+      WifeNPC_109: 379113394
+      WifeNPC_164: 1256355291
+      WifeNPC_139: -1304575716
+      WifeNPC_165: 1504360015
+      WifeNPC_47: 563713171
+      WifeNPC_171: 1716522865
+      WifeNPC_63: 1231178329
+      WifeNPC_157: -310289004
+      WifeNPC_159: 1175391713
+      WifeNPC_74: -304958633
+      WifeNPC_126: 1773121904
+      WifeNPC_58: 1803728191
+      WifeNPC_11: 705283575
+      WifeNPC_83: -1279092490
+      WifeNPC_33: 115349052
+      WifeNPC_98: 1803339898
+      WifeNPC_118: 2000714510
+      WifeNPC_87: -434116050
+      WifeNPC_72: -1733685947
+      WifeNPC_69: 328216601
+      WifeNPC_114: 455861579
+      WifeNPC_77: 144561936
+      WifeNPC_49: 793197886
+      WifeNPC_31: -16642459
+      WifeNPC_76: 1868293406
+      WifeNPC_22: -1315429618
+      WifeNPC_26: 1558907264
+      WifeNPC_78: -592039716
+      WifeNPC_84: -1766874058
+      WifeNPC_132: 1620038123
+      WifeNPC_168: -139956786
+      WifeNPC_88: 1487024317
+      WifeNPC_7: 2088415912
+      WifeNPC_73: -1863240162
+      WifeNPC_103: 2109478604
+      WifeNPC_94: 1492526725
+      WifeNPC_125: -2064436956
+      WifeNPC_67: 1524239280
+      WifeNPC_116: 1117557520
+      WifeNPC_172: -629284085
+      WifeNPC_52: 162864902
+      WifeNPC_23: 968387673
+      WifeNPC_46: -468162113
+      WifeNPC_28: -517932326
+      WifeNPC_138: 1192150690
+      WifeNPC_177: 1696900222
+      WifeNPC_92: 66218055
+      WifeNPC_121: 434738923
+      WifeNPC_127: -737759513
+      WifeNPC_55: 703542072
+      WifeNPC_166: -175123299
+      WifeNPC_19: -711270491
+      WifeNPC_142: 1240320857
+      WifeNPC_141: 1698174116
+      WifeNPC_57: 1068022721
+      WifeNPC_86: -730745783
+      WifeNPC_123: -772087954
+      WifeNPC_68: 1368264419
+      WifeNPC_111: 1539940295
+      WifeNPC_38: -858797212
+      WifeNPC_140: 999453443
+      WifeNPC_152: -1953989803
+      WifeNPC_130: -1309342524
+      WifeNPC_156: -35127283
+      WifeNPC_56: -771901941
+      WifeNPC_51: 1407701770
+      WifeNPC_82: 1459223546
+      WifeNPC_17: 1249350687
+      WifeNPC_3: -1722085012
+      WifeNPC_117: -114570514
+      WifeNPC_65: -1611455290
+      WifeNPC_96: 2068357171
+      WifeNPC_176: -1785553535
+      WifeNPC_42: 405374282
+      WifeNPC_163: -621940740
+      WifeNPC_40: -1619715683
+      WifeNPC_143: -1086340341
+      WifeNPC_81: -1586782573
+      WifeNPC_43: -1069835233
+      WifeNPC_107: -331396581
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

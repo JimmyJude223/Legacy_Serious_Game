@@ -1,0 +1,1 @@
+How could you do this, have you no sympathy for the creatures we share this land with? Haven’t we taken enough already? 

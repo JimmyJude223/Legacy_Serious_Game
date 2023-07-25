@@ -1,0 +1,1 @@
+I heard your company helped those researchers protect our fish here, while I do appreciate the aid, you used chemicals which could have severealy damaged the ecosystem. Im sure I don't need to tell you how dangerous that would be for both the wild life and us residents here. Regardless though, thank you.

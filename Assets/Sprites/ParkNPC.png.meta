@@ -1,0 +1,4051 @@
+fileFormatVersion: 2
+guid: d8f218a829769284f9bb89b1e237f3cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParkNPC_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8845dfab6931c458b2d226e17ea0af
+      internalID: 1924713860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310aaeab3eb1dc4698995a894e42651
+      internalID: 783722274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb504ae0affcc4980d930c1cffad95
+      internalID: 852144106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08364bdb1c6e0124db7c0fc32b93cc61
+      internalID: -878065662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd808205a92a3e4784fe74daa5f6f9a
+      internalID: 1943021977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb46540db4f5f479525b543fb6f8d6
+      internalID: 1114516724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b15c300e690d4d94d6accb99c77ad
+      internalID: 396527539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b19d1cd420d34282480e0f46ad819
+      internalID: 1370245688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3a203adb8aed4cbc2e8eeb36f3818
+      internalID: 98217255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160fedaaa5614c40ba913ebdb9df990
+      internalID: -1213864084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed5a59a6e095714096a91c3f98bc838
+      internalID: -1107446003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb787cedfd1854283234712ffedbd7
+      internalID: -1029024031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba932fcaa732ff4ea6933144b12d7a3
+      internalID: -251449844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4020217a52e6644e9e018743e9f3664
+      internalID: 1231075827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb78b3bace4bddd4796a0c02cae65b76
+      internalID: -927404584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb43e29d8037af442abb4b407e59f651
+      internalID: 554025458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0e3b0d1973224898549514d742ecd
+      internalID: -1435617806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38baaa5170ecb948bb98f1e6e3e882f
+      internalID: -244608938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24b46e46a697e41b97dac3f07761d7
+      internalID: 138655788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4e08f19203d04f8f6c43c9c0c29f6
+      internalID: -840774611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f03933480b9fd45b97384b55afa780
+      internalID: 1837055472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1090
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6edd71db60be948ac2b28ef360db63
+      internalID: 556715597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1090
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8135fb1b4642ec46aa967e46faa88e5
+      internalID: 552249562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf75b9a8028e4418fec9c3503091e7
+      internalID: -1981120774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c7ff94243a1004ebe98f54fde22383
+      internalID: -1506829448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6d230c412c1747a7aa5eaac54f4a5
+      internalID: -192228631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c27e7eeef24914aa4bd16592ba7fc2
+      internalID: -926348835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ca7bf2fcfad747a32a110d16230d6
+      internalID: 1973086096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66555901750034798ac39220e97c1f
+      internalID: -1992503740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998bf62bde5c6e47b7b2a9f655eaee7
+      internalID: -1949174590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6380042bcfcd4a91e39bdc9b4d753
+      internalID: -1735849898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da569ad3a07c2824f905941492ce785d
+      internalID: 1201738545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b0db5da5928045b4ae422efcee03d
+      internalID: -952966801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d5ac2392522542920cad82c7a1c7b
+      internalID: -1304395208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c94049188f5204fb9a6a09aace8175
+      internalID: -1636226615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c91b24c3ed9e458adcadebca32c4a
+      internalID: -1089611788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248063ec67e1f1d46aa96bd8b5a38d0d
+      internalID: -754786679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ebb0147b8146448a21a688e9995f3
+      internalID: -1468959621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ac8954315f63469f4438c604b4b8a
+      internalID: -1699671684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22281abc4e1128941879fbe8193691ed
+      internalID: -1440799094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f47cd7746024d41b0bb36687fbe2f7
+      internalID: -731469763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe11d1025bb0b44ba623659c71f96f1
+      internalID: 1082009535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b38df7fb0407468e243ed4bc72836
+      internalID: 690118050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fa040b1b1dcc4faba67aaf8909242
+      internalID: 108826360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccff4f32c4b2740a3c205038ef6fc6
+      internalID: -1496720073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 899
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187aee83d752e1b4495653d1ee4c3340
+      internalID: 1843566906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 899
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17139ec191120640b36f19095c02971
+      internalID: 25113303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f35bb36fc681543bd96de22c1e7539
+      internalID: -1203775055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 899
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b2e9a65443b3439cf3347f41bf65f
+      internalID: -827716215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 899
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463de44034670c54e9cc1fb33d52f8dd
+      internalID: -1256196446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 899
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f917ac6b17384c9d2355df3007a89
+      internalID: -1986667902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f001fef7abd3340bb863e893fd8bea
+      internalID: -1751806692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 834
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b3290d9b6684448eb5530ff869176
+      internalID: 2144087318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f963a141c5074e9de0f25e64c873c
+      internalID: 581375365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b66376c6239a2c4ab9c2532e1dbef8e
+      internalID: 197544457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4acf7980c919b4a938bd4931c8663e
+      internalID: -468800654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 834
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd3c0df31c2e15409640c3462d4fe97
+      internalID: 1624451413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c8d6e222db384c9f93159053bc5d5
+      internalID: -1466704037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 834
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa9c7436dcfafe408325435cc114608
+      internalID: 893720313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4cd06e9fa8e74f9671f5a3031d225
+      internalID: -26987304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739abda66f2842a45945a79f670fa45c
+      internalID: 1361596010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1331919344bbe5489ef36e1f71ce2a2
+      internalID: -2076682304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a593421ad030984aaebc5c97d39ee09
+      internalID: -1638957765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ddd64100440b1479a5f32697cdaea1
+      internalID: -2064096202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415dba0e9ebbfa747ac0f6520f961096
+      internalID: -1514162010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbaaf5d41f732e429dd0bfe6422ad32
+      internalID: 1441926580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f87058bae270654fbf175e72758ab16
+      internalID: -732646090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83422bb00eeee854e9d820ba4a6c69ae
+      internalID: 2013118762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb8e3c1ead2ad48ad6308191675359
+      internalID: -1561786993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970614089c9812346bf79428ed5ed930
+      internalID: -1146508644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26b8d2f5231c0d4db484df4cd8f8a39
+      internalID: -516674229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4536e0622a916274e8dc50c0d854f6d6
+      internalID: -183233747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23cab34901506c44ac84881ca3dcba9
+      internalID: 371071470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47bfa24e84cdd4a96c4f13da01f27d
+      internalID: -1083969054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc62dc719f039f429b56f40912fb38b
+      internalID: -55916077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d88e2dbb3c6c74f8929129de89cfd9
+      internalID: -1584592523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8466d639ccb48f4da3777682b648f33
+      internalID: 1978929489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35ce47b6e905d409e47762d6ff0da8
+      internalID: -785041337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898f65dfdf70a214b8af4092dff40b75
+      internalID: 124107007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd1159f1c7b9645a4eb57e424928cc
+      internalID: 953970109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80572eb2a6536734190f97160cd4804f
+      internalID: -1967211697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fafef1ba6a6a7498f00a3c6ca9e820
+      internalID: -288148477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac0a223e4c0e24ab51910ed2befd05
+      internalID: 317105238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3b9a9ef3014a44937b7d8970c8410
+      internalID: 776921599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5527e2baedee4da1e4d2100b2c4da
+      internalID: -1316681478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2684abd91cab640ba8dc2d81378537
+      internalID: 2049385271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d0704ef5bf6441966286690ba5ca9
+      internalID: 1211560912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c059161c8e70b644be04d75c920fed5
+      internalID: -1934195330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc02a3e32af30e40a2d09bef7377efe
+      internalID: 164218988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 579
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315b412655f5a443910d541966cd877
+      internalID: -72831645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbb016a041ef3448c3bbee2fa7f80b
+      internalID: -42743244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bdd9b8a8a7c0d4b928ea829595cfa0
+      internalID: -1455741721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef370c970cb5c342838d67f06d7e85e
+      internalID: 1108839347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b2646b312d4dd4dba8fa445af3fcb8
+      internalID: 163591083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001b3f0e6d8582e4b934bc6424688d6b
+      internalID: -241727421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20d4b2b41b7cf4084d1d0f4a51e1ac
+      internalID: 1203155025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ffbc410d246f74293d576b305a0c4e
+      internalID: -543461887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 513
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe626ae126610a47863a0c2753e6974
+      internalID: -1265547909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f136adda4f2949965c63ee40f3216
+      internalID: 1598033605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0cd668099dcc488d9ac3421093b88
+      internalID: 1905048687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069f6b12ed125a4494f948b2a4f0939
+      internalID: 536369844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac77f5eb25d0448a9d5490f9e6986e
+      internalID: 239658409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4182449cabd4274d8e0d379c36450ae
+      internalID: 1651776170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91aed8b308b6b8478c4f0f7726b8153
+      internalID: -1976742999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca71ff4fbbee534583f3685dea75e4f
+      internalID: 556131894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e90085a973de843bd90810248c7fbb
+      internalID: -1644296078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84904be986a9ab244872421775fe69ef
+      internalID: 465542691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ebe06485d55b4f83a0efba5861303
+      internalID: -1967162698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafbf71b19fa8841987af81cba787d4
+      internalID: 296548954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 386
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ebb1031ef0e74294ee71627d9576f
+      internalID: -1003710406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 386
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67030520a78434e9a36d2fcff6d169
+      internalID: 251375007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815cf6db93f64a4c8e88b3a6ebe7c3c
+      internalID: -621948275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346ebfbf10ddee54a972d3d0a2f3f56c
+      internalID: -794673010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ba7773c15fa845ad27720f16031c7
+      internalID: 1022231917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e691a26fed0b241bfca5824917a79f
+      internalID: 2047677314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3202610e4d5d454429726a110e26d834
+      internalID: 384534337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da66746fbba99409c90c7f72855078
+      internalID: -2135090691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f4263eed9e7e478357edc0d9312a4
+      internalID: 1356541780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab010824ec13734d91ab543e2ef06be
+      internalID: 1973567665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a3d823bff41940a0f672e81e3727a
+      internalID: 1467294215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4bb0e3a51ce9438c3ce43097c12c5
+      internalID: 349839750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e337706f6479f1469ce27e34f928bda
+      internalID: -774140578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83433e9b81d414092777bf805112db
+      internalID: -1515963550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2ec5b2892d80489a903d5da959990
+      internalID: -910509217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face130b3cbcd124fa5cd20d4631d6cb
+      internalID: 1995023783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7196a8ecec9be5f44826180ec010eab1
+      internalID: -1409201811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a261c4501819d4e96c9729178757f4
+      internalID: 695463371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb9696294631645bfed586fd099b44
+      internalID: 1225219369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 256
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7948136ab18397f488c884e49bc50b04
+      internalID: 928151585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd015943f73304dad9b23895916577
+      internalID: -2038771924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c2b46819b55eb459564ed584ca73d3
+      internalID: -267498794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e48f10b89aca04080ab95a1428af8f
+      internalID: -1588229011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022aa26813ca65d45b1a29bf2594f202
+      internalID: -731907558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 194
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5cc8470eaf6449a472f74445fe3be
+      internalID: 1248140736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a987ea4713e5478fa2dfe994a0c33
+      internalID: -1041751960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1a51c88a78c424098a8e8d2f967e99
+      internalID: -540291214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4dcaf91b693984f852eab46d48b3af
+      internalID: -1125562576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4ad3dfff737e4281d580df55f584d
+      internalID: -291799553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fd22502475564d9a8f589e3d9825b
+      internalID: -1493415626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b31630dd81794fb26540667468449
+      internalID: 808911727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94751f2f3b063f743b5a4ccab75ce3fd
+      internalID: -755047774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bda08ce81946646aed1d72f1b09922
+      internalID: -886459600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae152090a51594d9f034518a3ea630
+      internalID: -799582434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b8066a18733b46b182f22e2a157dc
+      internalID: -1104640878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd95f1f4be34ca459cf42f3ce5e0fb8
+      internalID: -590481451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda6ffb7f696594b9b09f3ab951fa8a
+      internalID: -1488018431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a245b7848b0d6e449e1e9f0d23fbdd7
+      internalID: -1842649945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926481d9a271c394bad5f6a8d20ae8d5
+      internalID: 406455957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 131
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d47510fab8f8a4cb66bee841cfc527
+      internalID: -475886176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd15b92e6a2f1489f05673771bab26
+      internalID: -1465077114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84122f8cca585524c82b57a4fc644d71
+      internalID: -1324383081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f591a0586e47c4d94438227de5581b
+      internalID: -2029987735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333e6820ca6f97c43ad6f76208d7ad59
+      internalID: -780552404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd877aa4bc5b3845b202d27389e302a
+      internalID: -1079606718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc467895b9d3b7a4f96966ec29088c07
+      internalID: 774938089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a08eebe33cdf0744a700a9c7978b750
+      internalID: -194842236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4187fd3d4f12454ea9402c9d8944364
+      internalID: 2027411903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f148ba5a7c36e449dff0617d7e8df1
+      internalID: -765747854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 130
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25d46820574684f8758bebe1e81fe9
+      internalID: 625745215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d2602ff55ae3439d7fba6e7b87b7d
+      internalID: 2037205380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613d8663dafddb448f3d09ef2194659
+      internalID: -1430255210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48405803899b8438cea741c440c4ca
+      internalID: 1410166321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3a016ea9b2924f9c4811231aa9913
+      internalID: 947517382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cbed76da170de41a73fddcb0dddb57
+      internalID: 74169242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf07b14a0c85774fad9ab86e24e33b1
+      internalID: 420360057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48545059b2022a46b3a0ec7bdd3afee
+      internalID: 744076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129049ba3a9eaaa41acea922632389b6
+      internalID: 1772116253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c53863f730570479d6ce98eb6c8262
+      internalID: 82219671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46bdac2e5bea844586552fe1c9336b3
+      internalID: 1715976761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327d6d8b8adadd14d8ae7b0c655f6b90
+      internalID: 1584672256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_170
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 66
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fda8e36d011fb45801c7f11f29277b
+      internalID: -388360342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa7b8a9510f3b34d882c40e40fb8533
+      internalID: -2015355696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5096b4084d31ce4e84e9090d8ee65a1
+      internalID: -1243895073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf47d4872d5e3b428b4f0dd8dddf0d0
+      internalID: -1127628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34bad19ebf0cc41b83f6d0cdbd2afd
+      internalID: 1975320266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4720a2a710264eb043ba2ca45322a
+      internalID: 1316412827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3ecca76260d94b849c4a14c53f6af
+      internalID: -1314447118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParkNPC_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e8ab5ffab8204da09426093eb0af5
+      internalID: 55103714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ParkNPC_25: -192228631
+      ParkNPC_78: 124107007
+      ParkNPC_18: 138655788
+      ParkNPC_114: 2047677314
+      ParkNPC_108: 296548954
+      ParkNPC_157: -765747854
+      ParkNPC_65: 1441926580
+      ParkNPC_69: -1146508644
+      ParkNPC_161: 1410166321
+      ParkNPC_22: 552249562
+      ParkNPC_7: 1370245688
+      ParkNPC_96: -543461887
+      ParkNPC_77: -785041337
+      ParkNPC_30: -1735849898
+      ParkNPC_84: -1316681478
+      ParkNPC_57: -1466704037
+      ParkNPC_41: 1082009535
+      ParkNPC_32: -952966801
+      ParkNPC_168: 1715976761
+      ParkNPC_62: -1638957765
+      ParkNPC_144: -590481451
+      ParkNPC_26: -926348835
+      ParkNPC_50: -1986667902
+      ParkNPC_129: -2038771924
+      ParkNPC_111: -621948275
+      ParkNPC_17: -244608938
+      ParkNPC_29: -1949174590
+      ParkNPC_75: -1584592523
+      ParkNPC_166: 1772116253
+      ParkNPC_11: -1029024031
+      ParkNPC_67: 2013118762
+      ParkNPC_127: 1225219369
+      ParkNPC_89: -72831645
+      ParkNPC_43: 108826360
+      ParkNPC_44: -1496720073
+      ParkNPC_70: -516674229
+      ParkNPC_60: 1361596010
+      ParkNPC_100: 536369844
+      ParkNPC_141: -886459600
+      ParkNPC_13: 1231075827
+      ParkNPC_54: 197544457
+      ParkNPC_83: 776921599
+      ParkNPC_98: 1598033605
+      ParkNPC_148: -475886176
+      ParkNPC_147: 406455957
+      ParkNPC_146: -1842649945
+      ParkNPC_23: -1981120774
+      ParkNPC_112: -794673010
+      ParkNPC_109: -1003710406
+      ParkNPC_143: -1104640878
+      ParkNPC_51: -1751806692
+      ParkNPC_90: -42743244
+      ParkNPC_103: -1976742999
+      ParkNPC_150: -1324383081
+      ParkNPC_9: -1213864084
+      ParkNPC_119: 1467294215
+      ParkNPC_122: -1515963550
+      ParkNPC_117: 1356541780
+      ParkNPC_6: 396527539
+      ParkNPC_91: -1455741721
+      ParkNPC_49: -1256196446
+      ParkNPC_107: -1967162698
+      ParkNPC_37: -1468959621
+      ParkNPC_3: -878065662
+      ParkNPC_152: -780552404
+      ParkNPC_59: -26987304
+      ParkNPC_155: -194842236
+      ParkNPC_131: -1588229011
+      ParkNPC_46: 25113303
+      ParkNPC_154: 774938089
+      ParkNPC_149: -1465077114
+      ParkNPC_71: -183233747
+      ParkNPC_2: 852144106
+      ParkNPC_160: -1430255210
+      ParkNPC_116: -2135090691
+      ParkNPC_48: -827716215
+      ParkNPC_81: -288148477
+      ParkNPC_1: 783722274
+      ParkNPC_15: 554025458
+      ParkNPC_135: -540291214
+      ParkNPC_95: 1203155025
+      ParkNPC_101: 239658409
+      ParkNPC_164: 420360057
+      ParkNPC_175: 1316412827
+      ParkNPC_36: -754786679
+      ParkNPC_58: 893720313
+      ParkNPC_138: -1493415626
+      ParkNPC_133: 1248140736
+      ParkNPC_118: 1973567665
+      ParkNPC_139: 808911727
+      ParkNPC_73: -1083969054
+      ParkNPC_110: 251375007
+      ParkNPC_105: -1644296078
+      ParkNPC_99: 1905048687
+      ParkNPC_28: -1992503740
+      ParkNPC_104: 556131894
+      ParkNPC_151: -2029987735
+      ParkNPC_42: 690118050
+      ParkNPC_169: 1584672256
+      ParkNPC_85: 2049385271
+      ParkNPC_102: 1651776170
+      ParkNPC_156: 2027411903
+      ParkNPC_177: 55103714
+      ParkNPC_47: -1203775055
+      ParkNPC_10: -1107446003
+      ParkNPC_172: -1243895073
+      ParkNPC_136: -1125562576
+      ParkNPC_173: -1127628128
+      ParkNPC_123: -910509217
+      ParkNPC_137: -291799553
+      ParkNPC_86: 1211560912
+      ParkNPC_92: 1108839347
+      ParkNPC_93: 163591083
+      ParkNPC_56: 1624451413
+      ParkNPC_125: -1409201811
+      ParkNPC_8: 98217255
+      ParkNPC_145: -1488018431
+      ParkNPC_153: -1079606718
+      ParkNPC_55: -468800654
+      ParkNPC_128: 928151585
+      ParkNPC_45: 1843566906
+      ParkNPC_142: -799582434
+      ParkNPC_34: -1636226615
+      ParkNPC_134: -1041751960
+      ParkNPC_88: 164218988
+      ParkNPC_120: 349839750
+      ParkNPC_170: -388360342
+      ParkNPC_176: -1314447118
+      ParkNPC_27: 1973086096
+      ParkNPC_106: 465542691
+      ParkNPC_4: 1943021977
+      ParkNPC_79: 953970109
+      ParkNPC_21: 556715597
+      ParkNPC_72: 371071470
+      ParkNPC_126: 695463371
+      ParkNPC_31: 1201738545
+      ParkNPC_33: -1304395208
+      ParkNPC_167: 82219671
+      ParkNPC_61: -2076682304
+      ParkNPC_12: -251449844
+      ParkNPC_82: 317105238
+      ParkNPC_14: -927404584
+      ParkNPC_171: -2015355696
+      ParkNPC_94: -241727421
+      ParkNPC_76: 1978929489
+      ParkNPC_140: -755047774
+      ParkNPC_74: -55916077
+      ParkNPC_80: -1967211697
+      ParkNPC_64: -1514162010
+      ParkNPC_16: -1435617806
+      ParkNPC_19: -840774611
+      ParkNPC_163: 74169242
+      ParkNPC_165: 744076975
+      ParkNPC_53: 581375365
+      ParkNPC_174: 1975320266
+      ParkNPC_0: 1924713860
+      ParkNPC_121: -774140578
+      ParkNPC_38: -1699671684
+      ParkNPC_35: -1089611788
+      ParkNPC_52: 2144087318
+      ParkNPC_20: 1837055472
+      ParkNPC_39: -1440799094
+      ParkNPC_24: -1506829448
+      ParkNPC_124: 1995023783
+      ParkNPC_158: 625745215
+      ParkNPC_68: -1561786993
+      ParkNPC_130: -267498794
+      ParkNPC_97: -1265547909
+      ParkNPC_159: 2037205380
+      ParkNPC_66: -732646090
+      ParkNPC_113: 1022231917
+      ParkNPC_5: 1114516724
+      ParkNPC_63: -2064096202
+      ParkNPC_132: -731907558
+      ParkNPC_162: 947517382
+      ParkNPC_87: -1934195330
+      ParkNPC_40: -731469763
+      ParkNPC_115: 384534337
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

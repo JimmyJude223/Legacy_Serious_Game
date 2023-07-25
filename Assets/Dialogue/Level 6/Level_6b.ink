@@ -1,0 +1,1 @@
+I understand that there is a big demand for jobs recently, and it’s only getting worse. I wish there were a better solution instead of taking away some of the only greenery we have here in the heart of the city, but livelihoods must come first, I suppose.

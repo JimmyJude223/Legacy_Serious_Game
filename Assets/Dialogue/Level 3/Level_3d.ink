@@ -1,0 +1,1 @@
+I heard you turned down those researchers! Ha that is good, we dont have time to be focusing on the park and its problems, we need to keep on growing the city, who cares about what happens to a bunch of fish? they were fine before and they will be fine now.

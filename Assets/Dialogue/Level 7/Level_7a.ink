@@ -1,0 +1,1 @@
+Well, It has been a rough year, I know you made your choices, while I not have agreed with some of them, a month from now we can look past all this and try to move on. I just hope the city is going to be okay..Be safe on your way to work. 

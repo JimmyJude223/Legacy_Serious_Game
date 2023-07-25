@@ -1,0 +1,2 @@
+When I was fishing last month, and I noticed an unusual amount of wild critters in the water, and a lack of the usual fish we usually have here. I assume you knew about it too? since some researchers approached your company for some help and you declined it. 
+Just because you own some of the land here doesnt mean this isnt your problem too you know. Let us just hope that the wild critters move on after some time.

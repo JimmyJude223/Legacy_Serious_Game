@@ -1,0 +1,4073 @@
+fileFormatVersion: 2
+guid: 1cdd01f1d7d07a348884edc70d1a4df0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CityNPC_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a691fafd9564443a926c38f9b1b7d1
+      internalID: 1715193953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c7624ccc190d3489fea507ec719ca9
+      internalID: 773043294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e71554e7f3e54bab5512b8fce88d5
+      internalID: 1263268649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dfa76474bcd11418250ee0e6fc33fa
+      internalID: 235127633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af31c534464c84a469a651e56b68ddde
+      internalID: -962738146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfdde1e8fba3df4aba6a73375107e77
+      internalID: -163108345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03988bb6e63c0554f8e3c964587d6c6e
+      internalID: 612324976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1088
+        width: 96
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec4d2b860b12641a061b84277d690a
+      internalID: -1772530976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9f611100087d438c893bd2c1da690
+      internalID: 112732608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839632aac4a57149a6077f464238484
+      internalID: 944106700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b946cce34ddea442b457057b300a793
+      internalID: -2122547616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f5cb7f27fa16428e35e2079abd6c2
+      internalID: -1692584805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45721addde5b64c947a52fe48faacd
+      internalID: -322183062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5d0c5067cab24c9d97535511a8643
+      internalID: 65571264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a9984ede1c454491167398697a15c
+      internalID: 1681936754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfc94f8ddde2a4bbf9c89fd36c1426
+      internalID: -1832445985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50334508ece549b4fa676867d021726a
+      internalID: 2108393713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1154
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2fbcd767c9238459a7ea12c63bc301
+      internalID: 1537999994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527432af1af8aec4995417ac2cf547de
+      internalID: -338858809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd589a5efba6aa409537497b2019207
+      internalID: 1654603993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7a692c25078247a3bbe99009bd89e
+      internalID: 1543776009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cca941ea59c68428cc17c62e044940
+      internalID: 952690315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f62af9af1b154c9314ae571a5a60d
+      internalID: 940459339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5cd4ad6576bc40b6bc2da5607af68
+      internalID: 495047956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b6aeefefe5f364f8b06ff2cc8673e8
+      internalID: -1261011804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b979205296ec444bef9fb58c442e7a
+      internalID: -878019687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca94a2a404da53a4984da94f73543b41
+      internalID: -1173784010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_27
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ac9639394342408f192ac14e64e72
+      internalID: 752768899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1090
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91662835cf9eae64696d484747bedba6
+      internalID: -319907677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1026
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dab84b7e920e0e41b2c4621534cab60
+      internalID: -149769921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70ff3ae78bb6b74c8265719f3ee6453
+      internalID: -1660089481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f850e98991d9bf547a88282ddf1a0896
+      internalID: -132844468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8447b3f9f4c904439114ebc4d55430d
+      internalID: -95160700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6302ea85bf923dc45a8a90485376752c
+      internalID: 1527326817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1024
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f0ff98237ea214b97d98a4302870e0
+      internalID: 388502946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799bae54796c9e47b4af2732fcbde17
+      internalID: 904541461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b8a7f0ecb06284882c94d94846eb57
+      internalID: -826849779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b6ef8abf16214982ba24996478116
+      internalID: 1390237829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9594f7ee7537548a9a80154d1d44ff
+      internalID: -922862943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf20fe022aeb914b8e2213148b8640d
+      internalID: -1627493542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14993361f3985c945a48ccb5af5f14e0
+      internalID: -1048535975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf0d1a17a6a874a8ca4f4546aeb45a
+      internalID: -1456214083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 962
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe66c89f91a3249a3f9dd0ef85a15e
+      internalID: 1263409044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 962
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d9311fc8ea9bd45a9be5886889b66f
+      internalID: -1182688214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c0e2dad5bc0c4eaf812d94a968fc3
+      internalID: -1505929066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f579ac89cb638c42ac91c81910a58da
+      internalID: 1047895158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 898
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b575a1eb155b72d4b871e98c1d2a6506
+      internalID: 863968520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 899
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10acf339abce17b448ba1bfe7a78def4
+      internalID: 443432868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_48
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5900c67dabaf8468c2e088ea8b7177
+      internalID: -1968114080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 899
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da73151e849b8c4bac9779d4fcd10c8
+      internalID: -196825819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 899
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1690fe1ecb1c4aaff81c83292d3f0
+      internalID: -919776827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 899
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ca8f9ed86fb84aaf984debc5d5984
+      internalID: -146274222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4adb595fd7e2b948a5dc976f2f2fa3b
+      internalID: -1605899593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 834
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34b90574ae6da43b543008da274139
+      internalID: 282555569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 834
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce73608610e78545a0bfe82827fc2cb
+      internalID: 1702548049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c33ec3638a4f24bb83c531d3ae58cf
+      internalID: -947196647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd9cfcf57de534f8055f5963333d11
+      internalID: -1151340578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f352228328aab4c893cc289264c041
+      internalID: 1598772247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 834
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555f64ca4a17ed4caa73757f90b776e
+      internalID: 2016428251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 834
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4400cba778ae24ea5d9cf5f1c0503f
+      internalID: -1175433832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_60
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461dc3c6a00bbf64496873dfc8e99fa3
+      internalID: 1078818150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 771
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b9d99671dde4d438319a3c94fa9dd8
+      internalID: -818654850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58e170a1bbc1740b84fe4cd51c5ff2
+      internalID: -1527456820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54460d0dac9384cae3f8d5e66668a4
+      internalID: -882481009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 768
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65692ec201f879d42903b6d33a660d95
+      internalID: 1139452343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_65
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11034ec8e8e78254d86daf5af419a68a
+      internalID: 1946380349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_66
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47141373478d6cd46aa1e98139590977
+      internalID: -1479576595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec212b1c36b6514fa270e7e7957beb2
+      internalID: -481264465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_68
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 768
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876e986cdfdc4b4a9be471bb366ed3c
+      internalID: -413944772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 769
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961935a6aeb2947448d180503549c9fe
+      internalID: -1949026024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e13eaf2feba1244b0150ce8bf431fe
+      internalID: 405856150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc382134db2fecf42bc94c47b7461a10
+      internalID: -628682712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_72
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda1cc8a44348f4bacd60ab93515954
+      internalID: -88166207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f4c8400ebf09945b2301b6a968e226
+      internalID: -1562279120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530de030427c244f9a9299eef43e22c
+      internalID: -672893788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_75
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb673789b17e65c41a9aa9608bdc9ad6
+      internalID: 1178709897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc719a87f505e964b832b4c07c6ca8b2
+      internalID: 420898748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e4559ab3df104db87de674c2659dd
+      internalID: 235963045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_78
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583e7d80172de94c9b86948b084a916
+      internalID: -385853977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d7967ff50b5cd49baf0bf9accc59ed
+      internalID: -954623299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_80
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e8a54c1663634b9b6b314ee36a8db
+      internalID: 1148047992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_81
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13e68658300c3c47acec0b871c564ae
+      internalID: -1084662630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_82
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929165210997d074ea979beb04f60726
+      internalID: -657613213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d02a59ec4b1e9439fe8d2d5947643b
+      internalID: -1392258995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_84
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538a0ff1b1450a4db00e11895b192fd
+      internalID: -897051101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_85
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e4f16c66468e4996a47323c1965cb
+      internalID: 493738650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed43a7762b10c342b52d98c1e4948e6
+      internalID: 732105653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_87
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c5b77e14064d343bacfdda7f056dd3
+      internalID: 805291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 578
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ecea6df64a9f4cb2e5a2596da947e
+      internalID: 1638707517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d7a2146ff2e84981df5f60dbf2953
+      internalID: 1593017574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 579
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4e54d75611be54abfca509cc1ebbb2
+      internalID: 1612233185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab25cc39c2600a840927eeca8e615c9d
+      internalID: -1565946186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_92
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a392f2179f91e4b9b74a59fadc9f5f
+      internalID: -331883564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17c0ec65d08644cbf893876dbea14a
+      internalID: 677611453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_94
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae321e57933a04b86aa81a689b3a29
+      internalID: 1218157601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_95
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7226e8a0880e6334e88bad33b7bf3a65
+      internalID: -829990018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 578
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a83964be1e37049885977327454755
+      internalID: 2081636785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1f7429d100ee4fb56347f98566a1b
+      internalID: -816175883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf938835eac7e2b4f915b02804cc8342
+      internalID: 101343201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 513
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecb31201c880c47a14c51f0fe128ca
+      internalID: 1796025892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 513
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd1b03d4c9f2142a462f434ac2ff22
+      internalID: -987206959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 513
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840dcea34fe62e40bbfed91ac276d12
+      internalID: 1449582696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_102
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 513
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f2450f41f83ad48a209d3706a906fb
+      internalID: -2011645850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_103
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04555a558a12abd49b64a3a7a518868e
+      internalID: 469095527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_104
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1e4a33c2017944b17342e8a2ddf8b
+      internalID: -1870930766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db626f848b63d4ca75c1c2653bc694
+      internalID: -1076333001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed533c1da2ec6644ab69cd6d1eb69354
+      internalID: 640163055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044bab178925f354181a891b32fbe236
+      internalID: 177430150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_108
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62910c921ab46d6418b6c735176ccd60
+      internalID: 1885745771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8035a1378862946a5b146b099b8e18
+      internalID: 289944689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 386
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be2f71b60c89a146993a8baef16e17e
+      internalID: 1894274428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295855871c7ab944ba811ce018ace6a3
+      internalID: 1472685877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 386
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbec19da0c4d2c47ba3779146bd244f
+      internalID: -282477537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_113
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 386
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b7b2ff676af26448445d80bf79a2cf
+      internalID: 297470745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896a26badf099e42acd601b8ae1ef44
+      internalID: -793825447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 322
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07f247f5ee6bf4bac09e6b26ec01e6
+      internalID: -1988715079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffc5f5ecb0b7a24194366936e328e40
+      internalID: 720135896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_117
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d7477280610942986d59bb8badfa1
+      internalID: -2131199348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_118
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3b4c59352feba47a392a98987e9024
+      internalID: -759070541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f6bac453b8ac4da5b84b370a447ba
+      internalID: 198176960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f9cec070381c49af942d058b87247
+      internalID: 939420304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_121
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153aff7d21358194192bf17f78234226
+      internalID: -1063959635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 257
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89779db758aa52f499c2c329e5282ac8
+      internalID: -2050233250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75bcb21447d244cbd7b69f25bafc78
+      internalID: -1241930752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0b2b237931704c949c98c603cf89e
+      internalID: 938107830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1910e2abcb9247b5d33f3602474cb
+      internalID: 1155557125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7b2c2c6256cb841b2cdfdd58edffe1
+      internalID: -935938413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2812764283076a47821b90312925356
+      internalID: -591006758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64fda79ebbfe2e4cb22fd2dac50feb1
+      internalID: 853430759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_129
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53193d7239a404583c605967203f80
+      internalID: -1346977967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_130
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaef8ede77d06e439475e563f9c5e13
+      internalID: 1555613233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_131
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017a1eec499b9c48846a017c17df727
+      internalID: -1856423174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_132
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780d9fe9c9800d499701d8b2f7e4c76
+      internalID: -389430329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_133
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246c9779d7bf2940b0bd49bc476cdde
+      internalID: 656685573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_134
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 194
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed5f0cd6efa2b54486a92b7f654cb46
+      internalID: -672727940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920fd242712bad4fbd9e99d7216184f
+      internalID: -274751165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda087bedcda25499d6ca2722fbbd1a
+      internalID: 1928992592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287466dc5f316c4bb09b692dec8bccf
+      internalID: -108665254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7cf5dc2f9fa474e931c5415ec2d175
+      internalID: 1011869907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_139
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4c64895a5bce408e03fc7c4015570
+      internalID: 970650672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_140
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b879b71268971a4080f80894d34908c
+      internalID: 1463559420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_141
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753a26a090e67074ca9e4bef04e9bc30
+      internalID: -43664994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_142
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fb94028e124f4aadb62c5fc75e15a
+      internalID: -2111750597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c1c4b2f12475489fbcde9b624d39d
+      internalID: 33009208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_144
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426e8d5f03d48246a508bebf4d518d1
+      internalID: -292297838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_145
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a21ddcbea45134bb3848e87d2018b2
+      internalID: 215652108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_146
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff08781dadb734a8a64a6a53d7131e
+      internalID: -1641564972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_147
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa1162ee411f34294585e749c42d93
+      internalID: -1092018378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_148
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d1cdf1ba1ab847be2a0a20b673d8b
+      internalID: -5231438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_149
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b37e875090817429f8eea4b0fba978
+      internalID: -105239807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e8fa7e3b1b144b9d38205274c1f82
+      internalID: 273368532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_151
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a2d12cce343414e97906592ade30c4
+      internalID: 1042302327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_152
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf4353b3a42c046be801b6915ea14e
+      internalID: 1707397924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_153
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3346c27fa7dd24f84d909ac5029ccb
+      internalID: 961846370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8f7994237785458a943eb5d789d41
+      internalID: -56683508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_155
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac55c3b3488dcc40aaa17a5d88ab330
+      internalID: -1224632744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_156
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747be1dec4f7fae41bb6ec441c70ccb9
+      internalID: -51283629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_157
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b051dda5f664ff4ea5d00313aa2ace1
+      internalID: -1405672652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_158
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 130
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db6877cb669f104a9a08bd9054e3faf
+      internalID: 1358074939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_159
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c3248a219b15f47b8a582408c9e09f
+      internalID: 1649675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_160
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c068470fe8809d549a014ba026958c72
+      internalID: 479881093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_161
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4a6f19074a134ab441ff1f47f682a
+      internalID: 381171883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_162
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e9d9f0635fb74991a9f04c82f32fb
+      internalID: -1533006064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c43905310751442947f5dfd23cbfcb
+      internalID: 1626665958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09e3f2c4913f04bb319d4b5c13acbc
+      internalID: 818403612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 66
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2e151522399347955e4a2bcdf1e77
+      internalID: -386690270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_166
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569f19bddb421f46b50b64cc567dfd6
+      internalID: -910239305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_167
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4dec4d3d9cd841b360fd489982573
+      internalID: 1234524024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_168
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42335697879efd4e8ed309ff72d60be
+      internalID: -2090683123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_169
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e14b9b2942ffa45ba604c86759b81f
+      internalID: 1111876460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_170
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73571cb43b16b974aa400fc567cad189
+      internalID: 364375292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 66
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7163986ad593d540ae277e8cb917e7b
+      internalID: -2008187008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318643719b6b7647ac7ef1c87ebec5a
+      internalID: 677501670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_173
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe45f2b8e130c5e42875f08d40e570b3
+      internalID: 150709083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_174
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd21e2db4e33fd44b6ff122654cf84e
+      internalID: -931113777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_175
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e21a1b86d0de42b31e49535ad59f5
+      internalID: 1463796311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_176
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958a6afb3b2e51449af0482bf714938
+      internalID: -1557673295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_177
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21464712cbe94c4cbceec78883460a2
+      internalID: -558582502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityNPC_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb7037dd2d0fd48bb49645b61c0215
+      internalID: -1911873588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CityNPC_131: -1856423174
+      CityNPC_29: -149769921
+      CityNPC_8: 112732608
+      CityNPC_12: -322183062
+      CityNPC_158: 1358074939
+      CityNPC_15: -1832445985
+      CityNPC_66: -1479576595
+      CityNPC_59: -1175433832
+      CityNPC_64: 1139452343
+      CityNPC_122: -2050233250
+      CityNPC_148: -5231438
+      CityNPC_10: -2122547616
+      CityNPC_26: -1173784010
+      CityNPC_121: -1063959635
+      CityNPC_119: 198176960
+      CityNPC_56: -1151340578
+      CityNPC_24: -1261011804
+      CityNPC_37: 1390237829
+      CityNPC_0: 1715193953
+      CityNPC_42: 1263409044
+      CityNPC_80: 1148047992
+      CityNPC_136: 1928992592
+      CityNPC_163: 1626665958
+      CityNPC_13: 65571264
+      CityNPC_170: 364375292
+      CityNPC_159: 1649675994
+      CityNPC_3: 235127633
+      CityNPC_111: 1472685877
+      CityNPC_157: -1405672652
+      CityNPC_155: -1224632744
+      CityNPC_151: 1042302327
+      CityNPC_36: -826849779
+      CityNPC_35: 904541461
+      CityNPC_25: -878019687
+      CityNPC_153: 961846370
+      CityNPC_11: -1692584805
+      CityNPC_112: -282477537
+      CityNPC_74: -672893788
+      CityNPC_138: 1011869907
+      CityNPC_168: -2090683123
+      CityNPC_32: -95160700
+      CityNPC_145: 215652108
+      CityNPC_34: 388502946
+      CityNPC_133: 656685573
+      CityNPC_21: 952690315
+      CityNPC_167: 1234524024
+      CityNPC_135: -274751165
+      CityNPC_150: 273368532
+      CityNPC_22: 940459339
+      CityNPC_172: 677501670
+      CityNPC_141: -43664994
+      CityNPC_67: -481264465
+      CityNPC_171: -2008187008
+      CityNPC_152: 1707397924
+      CityNPC_86: 732105653
+      CityNPC_61: -818654850
+      CityNPC_83: -1392258995
+      CityNPC_57: 1598772247
+      CityNPC_51: -146274222
+      CityNPC_70: 405856150
+      CityNPC_39: -1627493542
+      CityNPC_109: 289944689
+      CityNPC_19: 1654603993
+      CityNPC_85: 493738650
+      CityNPC_100: -987206959
+      CityNPC_178: -1911873588
+      CityNPC_140: 1463559420
+      CityNPC_99: 1796025892
+      CityNPC_49: -196825819
+      CityNPC_27: 752768899
+      CityNPC_60: 1078818150
+      CityNPC_33: 1527326817
+      CityNPC_89: 1593017574
+      CityNPC_72: -88166207
+      CityNPC_95: -829990018
+      CityNPC_62: -1527456820
+      CityNPC_69: -1949026024
+      CityNPC_53: 282555569
+      CityNPC_123: -1241930752
+      CityNPC_124: 938107830
+      CityNPC_2: 1263268649
+      CityNPC_52: -1605899593
+      CityNPC_94: 1218157601
+      CityNPC_96: 2081636785
+      CityNPC_38: -922862943
+      CityNPC_71: -628682712
+      CityNPC_58: 2016428251
+      CityNPC_169: 1111876460
+      CityNPC_75: 1178709897
+      CityNPC_1: 773043294
+      CityNPC_174: -931113777
+      CityNPC_4: -962738146
+      CityNPC_106: 640163055
+      CityNPC_30: -1660089481
+      CityNPC_7: -1772530976
+      CityNPC_14: 1681936754
+      CityNPC_105: -1076333001
+      CityNPC_176: -1557673295
+      CityNPC_77: 235963045
+      CityNPC_97: -816175883
+      CityNPC_147: -1092018378
+      CityNPC_108: 1885745771
+      CityNPC_18: -338858809
+      CityNPC_164: 818403612
+      CityNPC_47: 443432868
+      CityNPC_82: -657613213
+      CityNPC_93: 677611453
+      CityNPC_107: 177430150
+      CityNPC_144: -292297838
+      CityNPC_45: 1047895158
+      CityNPC_143: 33009208
+      CityNPC_162: -1533006064
+      CityNPC_118: -759070541
+      CityNPC_120: 939420304
+      CityNPC_173: 150709083
+      CityNPC_92: -331883564
+      CityNPC_175: 1463796311
+      CityNPC_40: -1048535975
+      CityNPC_137: -108665254
+      CityNPC_6: 612324976
+      CityNPC_156: -51283629
+      CityNPC_17: 1537999994
+      CityNPC_125: 1155557125
+      CityNPC_116: 720135896
+      CityNPC_73: -1562279120
+      CityNPC_130: 1555613233
+      CityNPC_128: 853430759
+      CityNPC_65: 1946380349
+      CityNPC_139: 970650672
+      CityNPC_23: 495047956
+      CityNPC_48: -1968114080
+      CityNPC_16: 2108393713
+      CityNPC_177: -558582502
+      CityNPC_117: -2131199348
+      CityNPC_104: -1870930766
+      CityNPC_28: -319907677
+      CityNPC_113: 297470745
+      CityNPC_114: -793825447
+      CityNPC_102: -2011645850
+      CityNPC_127: -591006758
+      CityNPC_78: -385853977
+      CityNPC_44: -1505929066
+      CityNPC_161: 381171883
+      CityNPC_5: -163108345
+      CityNPC_110: 1894274428
+      CityNPC_46: 863968520
+      CityNPC_41: -1456214083
+      CityNPC_91: -1565946186
+      CityNPC_115: -1988715079
+      CityNPC_50: -919776827
+      CityNPC_90: 1612233185
+      CityNPC_81: -1084662630
+      CityNPC_126: -935938413
+      CityNPC_84: -897051101
+      CityNPC_43: -1182688214
+      CityNPC_20: 1543776009
+      CityNPC_79: -954623299
+      CityNPC_98: 101343201
+      CityNPC_146: -1641564972
+      CityNPC_87: 805291997
+      CityNPC_129: -1346977967
+      CityNPC_134: -672727940
+      CityNPC_165: -386690270
+      CityNPC_76: 420898748
+      CityNPC_160: 479881093
+      CityNPC_54: 1702548049
+      CityNPC_166: -910239305
+      CityNPC_154: -56683508
+      CityNPC_31: -132844468
+      CityNPC_132: -389430329
+      CityNPC_55: -947196647
+      CityNPC_88: 1638707517
+      CityNPC_142: -2111750597
+      CityNPC_63: -882481009
+      CityNPC_103: 469095527
+      CityNPC_9: 944106700
+      CityNPC_101: 1449582696
+      CityNPC_68: -413944772
+      CityNPC_149: -105239807
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

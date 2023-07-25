@@ -1,0 +1,1 @@
+Training more employees? Amazing idea, sir. The more we can revolutionise this city, the better. More work, more money. More sophistication!

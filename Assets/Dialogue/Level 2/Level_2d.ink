@@ -1,0 +1,1 @@
+I just heard about what you did for those researchers. I personally think it is a waste of money and effort for such trivial things, your company should be focusing on helping improve the city and making it better. Please reconsider your actions in the future as the city is much more important than some fish in a river.
